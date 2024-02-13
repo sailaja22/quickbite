@@ -27,11 +27,5 @@ Hungry Heart is a React JS based online food ordering website that utilizes Swig
 -  Implemented Lazy loading
 
 <br>
-
-## 📬 Connect With Me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhdamaan79/)
-[![twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhdamaan79)
-=======
 # quickbite
 >>>>>>> origin/main
