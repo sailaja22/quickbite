@@ -1,5 +1,5 @@
 import { useState } from "react";
-import HungryHeartLogo from "../assets/Images/hungry_heart_logo.png";
+import QuickBiteLogo from "../assets/Images/Quick_bite.png";
 import { Link } from "react-router-dom";
 import useOnline from "../utils/useOnline";
 import { useSelector } from "react-redux";
@@ -8,9 +8,9 @@ import { HiMenu, HiOutlineArrowNarrowRight } from "react-icons/hi";
 const Title = () => (
   <a href="/">
     <img
-      className="h-16 md:h-24 lg:h-36 drop-shadow-lg scale-125 md:scale-150"
-      src={HungryHeartLogo}
-      alt="Hungry Heart Logo"
+      className="h-12 md:h-16 lg:h-24 drop-shadow-lg scale-75 md:scale-80"
+      src={QuickBiteLogo}
+      alt="Quick Bite Logo"
     />
   </a>
 );

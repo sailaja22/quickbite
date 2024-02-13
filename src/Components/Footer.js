@@ -1,4 +1,4 @@
-import HungryHeartLogo from "../assets/Images/hungry_heart_logo.png";
+import QuickBiteLogo from "../assets/Images/Quick_bite.png";
 import { Link } from "react-router-dom";
 
 const Footer = () => {
@@ -9,16 +9,16 @@ const Footer = () => {
           <div className="w-full lg:w-6/12 px-4">
             <div className="flex justify-start items-center ">
               <img
-                className="h-36 -ml-10 drop-shadow-lg scale-125"
-                src={HungryHeartLogo}
+                className="h-36 -ml-10 drop-shadow-lg scale-50"
+                src={QuickBiteLogo}
                 alt="Hungry Heart Logo"
               />
               <h4 className="text-3xl fonat-semibold text-blueGray-700">
-                HUNGRY <span className="text-orange-600">HEART</span>
+                QUICK <span className="text-orange-600">BITE</span>
               </h4>
             </div>
             <h5 className="text-lg mt-0 mb-2 text-blueGray-600">
-              Come taste the magic at Hungry Heart - where every bite is a love
+              Come taste the magic at Quick Bite - where every bite is a love
               potion{" "}
               <i
                 className="fa-solid fa-heart drop-shadow-md"
@@ -26,7 +26,7 @@ const Footer = () => {
               ></i>
             </h5>
             <div className="mt-6 lg:mb-0 mb-6">
-              <a target="_blank" href="https://twitter.com/mhdamaan79">
+              <a target="_blank" href="https://twitter.com/sailaja031">
                 <button
                   className="bg-white text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
@@ -37,7 +37,7 @@ const Footer = () => {
                   ></i>
                 </button>
               </a>
-              <a target="_blank" href="https://www.linkedin.com/in/mhdamaan79/">
+              <a target="_blank" href="www.linkedin.com/in/sailaja-senapati">
                 <button
                   className="bg-white text-pink-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
@@ -48,7 +48,7 @@ const Footer = () => {
                   ></i>
                 </button>
               </a>
-              <a target="_blank" href="https://github.com/mhdamaan79">
+              <a target="_blank" href="https://github.com/sailaja22">
                 <button
                   className="bg-white text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
@@ -165,12 +165,12 @@ const Footer = () => {
                 className="text-blueGray-500 hover:text-gray-800"
                 target="_blank"
               ></a>{" "}
-              HUNGRY <span className="text-orange-600">HEART</span> by{" "}
+              Quick <span className="text-orange-600">Bite</span> by{" "}
               <a
-                href="https://github.com/mhdamaan79"
+                href="https://github.com/sailaja22"
                 className="text-blueGray-500 hover:text-blueGray-800"
               >
-                Mohd Amaan
+                Sailaja Senapati
               </a>
               .
             </div>

@@ -24,8 +24,8 @@ const RestaurantMenu = lazy(() => import("./src/Components/RestaurantMenu"));
 
 const AppLayout = () => {
   const [user, setUser] = useState({
-    name: "Mohd Amaan",
-    email: "mhdamaan79@gmail.com",
+    name: "Sailaja Senapati",
+    email: "senapatisailaja.03@gmail.com",
   });
 
   return (

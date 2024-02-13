@@ -27,7 +27,7 @@ class About extends Component {
               <br></br> and we always aim to leave our guests feeling satisfied
               and happy.
             </p>
-            <a target="_blank" href="https://github.com/mhdamaan79">
+            <a target="_blank" href="https://github.com/sailaja22">
               <button
                 class="middle none center rounded-lg bg-orange-500 py-2 md:py-4 px-6 md:px-10 font-sans text-md sm:text-xl font-semibold sm:font-bold uppercase text-white shadow-md shadow-orange-500/20 transition-all hover:shadow-lg hover:shadow-orange-500/40 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none m-4"
                 data-ripple-light="true"
